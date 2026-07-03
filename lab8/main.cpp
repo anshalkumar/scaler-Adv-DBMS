@@ -1,4 +1,4 @@
-// main.cpp — Lab 8 demo (Aman Yadav, 24BCS10183, Class B, 2nd Year)
+// main.cpp — Lab 8 demo
 //
 // Drives the transaction manager through six bank-account scenarios:
 //   1. MVCC snapshot isolation
@@ -46,7 +46,6 @@ std::string rd(Manager& m, txn_id_t tx, const std::string& key) {
 
 int main() {
     std::cout << "Lab 8 — Transaction Manager Demo\n";
-    std::cout << "Aman Yadav | 24BCS10183 | Class B | 2nd Year\n";
 
     Manager bank;
 

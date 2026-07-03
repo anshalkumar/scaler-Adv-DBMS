@@ -1,4 +1,4 @@
-// txn_manager.hpp — Lab 8 (Aman Yadav, 24BCS10183, Class B, 2nd Year)
+// txn_manager.hpp — Lab 8
 //
 // Header-only in-memory transaction manager:
 //   * MVCC reads  — every txn reads from the snapshot it captured at begin()

@@ -1,10 +1,6 @@
 # Lab 8 — In-Memory Transaction Manager (MVCC + Strict 2PL)
 
 **Course:** Advanced DBMS — Scaler School of Technology
-**Student:** Aman Yadav
-**Roll No:** 24BCS10183
-**Class:** B
-**Year:** 2nd Year
 
 A header-only C++17 transaction manager that combines the concurrency-control
 primitives found in a real relational engine: MVCC reads, Strict 2PL writes,
