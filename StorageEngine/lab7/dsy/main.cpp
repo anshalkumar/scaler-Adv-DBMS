@@ -1,6 +1,4 @@
 // Lab 7 — Dijkstra's Shunting-Yard Algorithm
-// Author: 24BCS10183 Aman Yadav  (Class B, 2nd year)
-//
 // Converts a SQL WHERE clause written in INFIX notation into POSTFIX (RPN),
 // honouring operator precedence and parentheses, then evaluates the postfix
 // against a list of rows to filter them.

@@ -1,9 +1,5 @@
 # Dijkstra's Shunting-Yard — Learning Notes
 
-**Name.** Aman Yadav
-**Roll No.** 24BCS10183
-**Class.** B (2nd year)
-
 This is where I jot down what I learn while writing the code in `main.cpp`.
 
 > I started this not knowing what infix/postfix even were, or why we'd bother

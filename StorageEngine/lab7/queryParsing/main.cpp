@@ -1,6 +1,4 @@
 // Lab 7 — Query Parsing (tokenize → AST → execute)
-// Author: 24BCS10183 Aman Yadav  (Class B, 2nd year)
-//
 // Reads a simple `SELECT col FROM table WHERE ...` string, tokenizes it,
 // recursive-descent parses it into an AST (SelectStatement + an Expression
 // tree of ColumnRef / Literal / BinaryExpression), then executes the AST
